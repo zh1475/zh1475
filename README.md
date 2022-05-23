@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zikra
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: Email me at zikraharis16@gmail.com
 
